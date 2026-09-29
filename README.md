@@ -1,5 +1,7 @@
 # Quantum Excellium — Strategic IP Portfolio
 
+[![self-check](https://github.com/Quantum-Architecture/strategic-ip-portfolio/actions/workflows/public-repo.yml/badge.svg)](https://github.com/Quantum-Architecture/strategic-ip-portfolio/actions/workflows/public-repo.yml)
+
 Controlled, non-enabling public summaries of Quantum Excellium strategic intellectual property.
 
 All references below are **patent applications, not granted patents**. Five have received disclosure and free-exploitation clearance after the French Ministry of the Armed Forces review; the sixth is awaiting its written clearance and is therefore listed by number only.
